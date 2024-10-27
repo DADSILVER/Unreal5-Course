@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/david/OneDrive/Escritorio/Curso Unreal/IntroPorject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CF/HWVMDGM2UVR9K8BYY71GIU.uasset",
+				"C:/Users/david/OneDrive/Escritorio/Curso Unreal/IntroPorject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/U1/IIWNEP3V8YQ3QOB828X8KA.uasset",
+				"C:/Users/david/OneDrive/Escritorio/Curso Unreal/IntroPorject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YJ/0ALLFXOPYQLFHRQGX99XPD.uasset",
+				"C:/Users/david/OneDrive/Escritorio/Curso Unreal/IntroPorject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/57/PY7KOW1YVY3A6YG71YK2C7.uasset",
+				"C:/Users/david/OneDrive/Escritorio/Curso Unreal/IntroPorject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/FC/AO0KGVB7SCMDJPILRE8QPE.uasset"
+			]
+		}
+	]
+}
